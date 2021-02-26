@@ -1,5 +1,5 @@
 discord.py
-aiohttp==1.0.5
+aiohttp==3.7.4
 asyncio==3.4.3
 beautifulsoup4==4.6.3
 cachetools==3.0.0
