@@ -23,7 +23,7 @@ six==1.11.0
 Unidecode==1.0.23
 urllib3==1.23
 utils==0.9.0
-websockets==3.4
+websockets==9.1
 youtube-dl==2018.12.17
 matplotlib==3.0.0
 opuslib
